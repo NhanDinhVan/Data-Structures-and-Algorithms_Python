@@ -14,4 +14,4 @@ class Solution:
             if i not in ai and bi.get(i, 0) == n - 1:
                 return i
 
-        return -1 
+        return -1
